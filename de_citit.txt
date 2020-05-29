@@ -1,0 +1,12 @@
+prima problema:
+
+rezolvata in jupyternotebook este deja compila si lasata cu output.
+de asemneam, am facut comentarii pe baza codului acolo
+
+a doua problema:
+am facut o in 2 fisiere diferite. ne ati spus la curs ca e mult mai usor de vizualizat asa.
+prima partea cea de 3 topicuri: am atasat fisierul sursa. 
+a doua parte: am si fiserul sursa si jupyternotebook la el cu outputul deja rulat. de asemenea in cod sunt unele grafice comentate pentru ca ma incurca sa sa lucrez la urmatorul.
+
+
+Multumesc.
